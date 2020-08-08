@@ -1,5 +1,5 @@
 # GA-Z77P-D3 OpenCore
-GA-Z77P-D3 OpenCore EFI. Perfect for macOS 10.14.6 & 10.15.5 (Catalina)
+GA-Z77P-D3 OpenCore EFI. Perfect for macOS 10.14.6 & 10.15.6 & macOS Big Sur Public Beta
 
 | 硬件 | 型号 |
 | ----| ---- |
