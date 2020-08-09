@@ -1,4 +1,4 @@
-# GA-Z77P-D3 OpenCore
+# GA-Z77P-D3 OpenCore 由于最近购入了笔记本本项目停止更新
 GA-Z77P-D3 OpenCore EFI. Perfect for macOS 10.14.6 & 10.15.6 & macOS Big Sur Public Beta
 
 | 硬件 | 型号 |
